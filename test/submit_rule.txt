@@ -1,4 +1,0 @@
-Size : 69 X 22 CMD.EXE
-
-freopen("ID.txt", "r", stdin);
-freopen("submit_out.txt", "w", stdout);
